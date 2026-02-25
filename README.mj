@@ -1,0 +1,16 @@
+# AWS DevOps Project
+
+This is my first project to deploy a website on AWS EC2.  
+
+## Tools Used
+- AWS EC2 (Free Tier)
+- Linux
+- Apache web server
+- GitHub
+
+## Steps Followed
+1. Created simple HTML website (index.html)
+2. Created AWS EC2 server
+3. Installed Apache server on Linux
+4. Uploaded index.html to EC2
+5. Tested website in browser
